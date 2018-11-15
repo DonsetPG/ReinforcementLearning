@@ -15,6 +15,12 @@ class Replay():
 
 ############
 
+## Version outdated, needs to be completely reviewed
+## it is just slow haha 
+
+## ================================================================ ## 
+## ================================================================ ## 
+
 class ReplayMemory():
 
   def __init__(self, args, capacity):
